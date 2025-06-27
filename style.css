@@ -42,10 +42,11 @@ section {
 }
 .parent {
     width: 20%;
-    background-color: #fff;
+    background-color: rgba(250, 250, 250, 0.662);
     border-radius: 12px;
     padding: 15px;
     text-align: center;
+
 }
 .parent:hover {
     transform: scale(1.05);
